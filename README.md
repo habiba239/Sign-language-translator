@@ -89,4 +89,4 @@ This project was built as a team of 2.
 
 ## Pretrained Models
 
-Download models from [HuggingFace]([hab200/asl-sign-language-mlp](https://huggingface.co/hab200/asl-sign-language-mlp)) and place in `models/` folder:
+Download models from [HuggingFace]((https://huggingface.co/hab200/asl-sign-language-mlp)) and place in `models/` folder:
