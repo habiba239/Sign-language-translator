@@ -1,0 +1,14 @@
+Pillow
+matplotlib
+pyspellchecker
+gramformer
+fastapi
+streamlit
+requests
+mediapipe
+pandas
+numpy
+joblib
+opencv-python
+uvicorn[standard]
+pydantic

@@ -1,0 +1,30 @@
+# Models (upload to Google Drive or HuggingFace instead)
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Dataset (too large for GitHub)
+data/asl_alphabet_train/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp files
+*.png
+*.jpg
+*.jpeg
