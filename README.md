@@ -84,4 +84,9 @@ This project was built as a team of 2.
 - **Streamlit** — Frontend UI
 - **OpenCV** — Real-time video processing
 ## Demo
+
 [![Sign Language Translator Demo]](https://youtu.be/oKTJ7SF2bgg)
+
+## Pretrained Models
+
+Download models from [HuggingFace](hab200/asl-sign-language-mlp) and place in `models/` folder:
